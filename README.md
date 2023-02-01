@@ -4,10 +4,10 @@ This is a 2-player Pong game built using the Python Turtle module. It allows two
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-##Prerequisites
+## Prerequisites
 You will need to have Python 3 installed on your computer to run this project. You can download the latest version of Python from the official Python website here.
 
-##Installing
+## Installing
 Clone the repository to your local machine
 shell
 -----------
@@ -20,7 +20,8 @@ Run the game using Python
 ruby
 -----or-----
 $ python pong.py
-How to Play
+
+## How to Play
 The game is controlled using the keyboard:
 
 Player A moves their paddle up using the "w" key and down using the "s" key
